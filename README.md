@@ -23,7 +23,7 @@ FPMCAE 可广泛应用于以下领域：
 如果您在使用过程中有任何问题或建议，请通过以下方式联系我们：
 
 - **邮箱**：[fpmcae@zju.edu.cn](mailto:fpmcae@zju.edu.cn)
-- **QQ**：[437808661]()
+- **QQ技术群**：[437808661](https://qm.qq.com/cgi-bin/qm/qr?k=9spwLes4DGCERunRATnQIUfYZWxY5CjR&jump_from=webapi&qr=1)
 
 ## 下载地址
 
