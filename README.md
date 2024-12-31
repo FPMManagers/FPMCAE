@@ -25,6 +25,8 @@ FPMCAE 可广泛应用于以下领域：
 - **邮箱**：[fpmcae@zju.edu.cn](mailto:fpmcae@zju.edu.cn)
 - **QQ技术群**：[437808661](https://qm.qq.com/cgi-bin/qm/qr?k=9spwLes4DGCERunRATnQIUfYZWxY5CjR&jump_from=webapi&qr=1)
 
+<img src="images/qq_group.jpg" alt="QQ Group" width="300"/>
+
 ## 下载地址
 
 您可以通过以下链接获取 FPMCAE 的最新版本：
