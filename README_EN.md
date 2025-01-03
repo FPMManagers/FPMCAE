@@ -27,7 +27,7 @@ If you have any questions or suggestions during use, please contact us through t
 - **Email**: [fpmcae@zju.edu.cn](mailto:fpmcae@zju.edu.cn)
 - **QQ Technical Group**: [437808661](https://qm.qq.com/cgi-bin/qm/qr?k=9spwLes4DGCERunRATnQIUfYZWxY5CjR&jump_from=webapi&qr=1)
 
-![QQ Group](images/qq_group.jpg)
+<img src="images/qq_group.jpg" alt="QQ Group" width="300"/>
 
 ## Download
 
