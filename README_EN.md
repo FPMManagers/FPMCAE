@@ -29,7 +29,7 @@ If you have any questions or suggestions during use, please contact us through t
 
 <img src="images/qq_group.jpg" alt="QQ Group" width="300"/>
 
-## Download
+## Free Download
 
 You can download the latest version of FPMCAE from the following link:
 
