@@ -28,7 +28,7 @@ FPMCAE 可广泛应用于以下领域：
 
 <img src="images/qq_group.jpg" alt="QQ Group" width="300"/>
 
-## 下载地址
+## 免费下载地址
 
 您可以通过以下链接获取 FPMCAE 的最新版本：
 
