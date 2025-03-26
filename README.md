@@ -32,6 +32,6 @@ FPMCAE 可广泛应用于以下领域：
 
 您可以通过以下链接获取 FPMCAE 的最新版本：
 
-- [FPMCAE v1.2.1 最新 Release 包下载](https://github.com/FPMManagers/FPMCAE/releases/tag/V1.2.1)
+- [FPMCAE v1.2.2 最新 Release 包下载](https://github.com/FPMManagers/FPMCAE/releases/tag/V1.2.2)
 
 感谢您选择 FPMCAE，我们期待您的反馈和建议！
