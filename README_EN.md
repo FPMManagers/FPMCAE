@@ -1,8 +1,8 @@
 English | [Chinese](README.md)
 
-# FPMCAE v1.0
+# FPMCAE
 
-Welcome to FPMCAE v1.0, a general-purpose structural complex behavior simulation and analysis software independently developed by Professor [Luo Yaozhi](https://person.zju.edu.cn/0091020)'s team at Zhejiang University. FPMCAE uses the Finite Particle Method as its core algorithm, integrates pre- and post-processing functions, multiple solver engines, and parallel computing technology. It is applicable in fields such as civil transportation, mechanical manufacturing, aerospace, and more. Currently completely free！
+Welcome to FPMCAE, a general-purpose structural complex behavior simulation and analysis software independently developed by Professor [Luo Yaozhi](https://person.zju.edu.cn/0091020)'s team at Zhejiang University. FPMCAE uses the Finite Particle Method as its core algorithm, integrates pre- and post-processing functions, multiple solver engines, and parallel computing technology. It is applicable in fields such as civil transportation, mechanical manufacturing, aerospace, and more. Currently completely free！
 
 ## Features
 
