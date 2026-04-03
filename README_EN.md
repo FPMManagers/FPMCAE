@@ -33,6 +33,6 @@ If you have any questions or suggestions during use, please contact us through t
 
 You can download the latest version of FPMCAE from the following link:
 
-- [FPMCAE V2.0.3.89 Latest Release Download](https://github.com/FPMManagers/FPMCAE/releases/tag/V2.0.3.89)
+- [FPMCAE V2.1.0 Latest Release Download](https://github.com/FPMManagers/FPMCAE/releases/tag/V2.1.0)
 
 Thank you for choosing FPMCAE. We look forward to your feedback and suggestions!
